@@ -1,4 +1,6 @@
-Test
-====
+<?php
+	echo "Test";
+    echo "Test and Test";
+  
 
-test
+?>
